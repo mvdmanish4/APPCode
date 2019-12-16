@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="restapi.main:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/restapi_main_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="restapi.main/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="restapi.main" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
